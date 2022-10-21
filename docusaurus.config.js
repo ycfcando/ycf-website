@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Real Own Things',
-  baseUrl: '/',
+  baseUrl: '/my-website/',
   url: 'https://ycfcando.github.io',
 
   tagline: 'Write down my thoughts',
