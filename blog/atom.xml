@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ycfcando.github.io/my-website/blog</id>
-    <title>Hypoxia Blog</title>
+    <title>Real Own Things Blog</title>
     <updated>2022-07-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ycfcando.github.io/my-website/blog"/>
-    <subtitle>Hypoxia Blog</subtitle>
+    <subtitle>Real Own Things Blog</subtitle>
     <icon>https://ycfcando.github.io/my-website/img/favicon.jpg</icon>
     <entry>
         <title type="html"><![CDATA[构建自己的知识库]]></title>
@@ -20,7 +20,6 @@
 2、知识类记录我们要用的，不要像记字典一样</p>]]></content>
         <author>
             <name>叶超凡</name>
-            <uri>https://github.com/endiliey</uri>
         </author>
     </entry>
 </feed>
