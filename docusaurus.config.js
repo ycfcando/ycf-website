@@ -35,6 +35,8 @@ const config = {
         },
         blog: {
           showReadingTime: false,
+          blogTitle: 'Blog',
+          blogSidebarTitle: '博客'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
