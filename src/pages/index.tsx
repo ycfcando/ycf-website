@@ -1,9 +1,8 @@
-import React from 'react';
-import Layout from '@theme/Layout';
-import clsx from 'clsx'
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
-import Link from '@docusaurus/Link';
-import styles from './index.module.css';
+import Layout from "@theme/Layout";
+import clsx from "clsx";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Link from "@docusaurus/Link";
+import styles from "./index.module.css";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -17,7 +16,7 @@ export default function Home(): JSX.Element {
             <div>
               <Link
                 className="button button--secondary button--outline button--lg"
-                to='/docs/example'
+                to="/docs/example"
               >
                 About me
               </Link>
